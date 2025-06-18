@@ -1,0 +1,19 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "it's jyst an practice of node JS ",
+  "license": "ISC",
+  "author": "Raghav verma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.15.2",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  }
+}
