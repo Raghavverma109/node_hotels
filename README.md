@@ -3,7 +3,8 @@
 
 Tech Used: Node.js, Express.js, MongoDB
 
-##Features : 
+Features : 
+
 • Developed a RESTful web application to
 manage hotel staff and menu items,
 implementing full CRUD operations using
